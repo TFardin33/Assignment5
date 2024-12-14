@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Hello</string>
+
+    <string-array name="tech_array">
+        <item>0182210012101046</item>
+        <item>0182210012101048</item>
+        <item>0182210012101049</item>
+        <item>0182210012101050</item>
+        <item>0182210012101051</item>
+        <item>0182210012101052</item>
+        <item>0182210012101053</item>
+        <item>0182210012101054</item>
+        <item>0182210012101057</item>
+        <item>0182210012101058</item>
+        <item>0182210012101059</item>
+        <item>0182210012101062</item>
+        <item>0182210012101064</item>
+        <item>0182210012101066</item>
+        <item>0182210012101070</item>
+        <item>0182210012101071</item>
+        <item>0182210012101072</item>
+        <item>0182210012101073</item>
+        <item>0182210012101074</item>
+        <item>0182210012101075</item>
+        <item>0182210012101076</item>
+        <item>0182210012101077</item>
+        <item>0182210012101079</item>
+        <item>0182210012101080</item>
+        <item>0182210012101081</item>
+        <item>0182210012101084</item>
+        <item>0182210012101085</item>
+        <item>0182210012101086</item>
+        <item>0182210012101087</item>
+        <item>0182210012101088</item>
+        <item>0182210012101090</item>
+
+    </string-array>
+
+    <string-array name="tech_array_subtitle">
+        <item>Student ID: 0182210012101046\nName: Sadia Islam\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101048\nName: Mithila Banik\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101049\nName: Dipusree Roy Tanu\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101050\nName: Md. Mehrab Hussain Sumon\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101051\nName: Sohefa Begum\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101052\nName: Tahmida Quyum Nuri\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101053\nName: Shariful Islam Kafi\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101054\nName: Anindita Das\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101055\nName: Meem\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101056\nName: Tauqir\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101057\nName: Sheikh Rafi Ahmed Sadi\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101058\nName: Shorif Ahmed\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101059\nName: Md. Sajidur Rahman\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101062\nName: Bishal Banik\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101064\nName: Sagnik Deb\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101066\nName: Arpon Deb\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101070\nName: Mustafijul Islam Shikder Tamim\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101071\nName: Toaha Fardin\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101072\nName: Sayed Nasim\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101073\nName: Sheikh Tasnia Nuzhat\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101074\nName: Md. Nazrul Islam Nayan\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101075\nName: Sangida Akter Meem\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101076\nName: Tauqir Tahmid Bin Mofid\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101077\nName: Jubayer Ashraf Mahin\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101070\nName: Tamim\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101071\nName: Fardin\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101072\nName: Nasim\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101073\nName: Nuzhat\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101074\nName: Nayon\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101075\nName: Meem\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101076\nName: Tauqir\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101077\nName: Mahin\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101079\nName: Sanzida Zuarder Munira\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101080\nName: Prapti Rani Chakrabarthy\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101081\nName: Md Mahbubur Rahman Mahbub\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101084\nName: Roni Das\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101085\nName: Najmun Nahar Anjum\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101086\nName: Laviba Hasan Chowdhury\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101087\nName: Irfan Sadik Rishad\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101088\nName: Sanjeda Alam\nCGPA: 3.50\nAddress: Sylhet</item>
+        <item>Student ID: 0182210012101090\nName: A.S. Asfakunnobi Nahid\nCGPA: 3.50\nAddress: Sylhet</item>
+
+
+    </string-array>
+</resources>
